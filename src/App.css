@@ -1,0 +1,62 @@
+.App{
+    background: #77A1D3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height:900px;
+
+}
+    .head{
+        text-align: center;
+      }
+.function{
+      background-color: rgb(123, 200, 200);
+      border: 2px solid black;
+      height: 75px;
+      width: 250px;
+      padding: 25px;
+      text-align: center;
+      border-radius: 20px ;
+      margin: 200px;
+      
+ }
+ .function:hover{
+    background-color: aqua;
+ }
+
+.function-box{
+    background-color: aqua;
+    border: 2px solid black;
+    height: 300px;
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    border-radius:25px ;
+    margin-left: 125px;
+}
+.class{
+    background-color: rgb(123, 200, 200);
+    border: 2px solid black;
+    height: 75px;
+    width: 250px;
+    padding: 25px;
+    text-align: center;
+    border-radius: 20px ;
+    position: absolute;
+    top: 275px;
+    right: 300px;
+}
+.class:hover{
+    background-color: aqua;
+}
+.class-box{
+    background-color: purple;
+    border: 2px solid black;
+    height: 300px;
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    border-radius:25px ;
+    position: absolute;
+    top: 560px;
+    right: 200px;
+}
